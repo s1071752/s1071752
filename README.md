@@ -10,5 +10,5 @@ You can click the Preview link to take a look at your changes.
 -  I am studying in IIM and currently learning data mining and data analysis.
 -  Kaggle: https://www.kaggle.com/st17chen
 -  HackerRank
-- 
+
 
